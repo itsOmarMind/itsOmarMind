@@ -7,7 +7,7 @@
 ⚡ Fun fact: I name my variables better than I name my pets
 
 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/Omar Alaql) email
+[LinkedIn](https://linkedin.com/in/OmarAlaql) email
 
 💻 Tech Stack:
 Java HTML5 PHP Kotlin AWS Render Spring Apache Maven Postgres MySQL GitHub Docker Kubernetes Postman Swagger
